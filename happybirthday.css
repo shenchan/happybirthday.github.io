@@ -1,0 +1,7 @@
+@keyframes title{
+    from{color:crimson}
+    to{color:violet}
+}
+bdaysign {
+    animation-name: title;
+}
